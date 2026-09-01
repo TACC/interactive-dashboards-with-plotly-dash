@@ -301,7 +301,7 @@ in our terminal:
 
     .. code-block:: console
     
-        [tutorial-vm]$ docker-compose up -d
+        [tutorial-vm]$ docker compose up -d
         [+] Building 0.2s (10/10) FINISHED                                                                                      docker:default
          => [dash-app internal] load build definition from Dockerfile                                                                     0.0s
          => => transferring dockerfile: 578B                                                                                              0.0s
