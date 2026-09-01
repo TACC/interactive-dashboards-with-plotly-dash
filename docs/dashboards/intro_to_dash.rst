@@ -192,7 +192,7 @@ We also need to install the ``dash-ag-grid`` component, which we can do using pi
 
     (.venv) [tutorial-vm]$ pip install dash-ag-grid
     (.venv) [tutorial-vm]$ pip list | grep dash_ag_grid
-    ash_ag_grid       35.3.0
+    dash_ag_grid       35.3.0
 
 Now, we can modify our ``app.py`` file to read in the dataset with ``pandas`` into a DataFrame and display
 it in a table. We will use the ``dash_ag_grid`` component to create an interactive table that allows us to
