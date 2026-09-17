@@ -12,7 +12,6 @@ deploy a Dash app into production on the Jetstream2 cloud.
    :maxdepth: 2
    :caption: Contents:
 
-   js2/overview
    dashboards/overview
 
 
