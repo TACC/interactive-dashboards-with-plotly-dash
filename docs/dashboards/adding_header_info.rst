@@ -195,7 +195,7 @@ And, the helper function `create_header_display` will look something like this:
         else:
             return html.Div("No header information available.", className="text-center text-muted mt-5")
 
-Of course, now that we have added a third output to our callback function, we will also need to update the
+Of course, now that we have added a third output to our callback function, we will also need to update
 any return statements in the callback function to include the new output for the header information.
 For example, if we don't receive a valid PDB ID, we will return:
 
